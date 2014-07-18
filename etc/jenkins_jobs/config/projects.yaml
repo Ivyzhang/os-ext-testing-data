@@ -2,7 +2,7 @@
     name: sandbox
     github-org: openstack-dev
     node: master
-    vendor: myvendor
+    vendor: IBM
 
     jobs:
         - noop-check-communication
